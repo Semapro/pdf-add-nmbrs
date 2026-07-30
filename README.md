@@ -92,6 +92,11 @@ mypy src
 
 ## License
 
-No public license has been selected yet. Add an appropriate software license
-before distributing the project for customer use.
+PDF Add Numbers uses a dual-license model:
+
+- Noncommercial use, modification, and distribution are available under the
+  PolyForm Noncommercial License 1.0.0 with required Semapro attribution.
+- Commercial use requires a separate written license from Semapro B.V.
+
+See [LICENSE](LICENSE) for the complete terms.
 
