@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Add line numbers to PDF review copies"
 readme = "README.md"
 requires-python = ">=3.11"
+license = { file = "LICENSE" }
 authors = [
   { name = "Semapro" },
 ]
@@ -36,6 +37,7 @@ packages = ["src/pdf_add_nmbrs"]
 
 [tool.hatch.build.targets.sdist]
 include = [
+  "/LICENSE",
   "/README.md",
   "/pdf_line_numbers.py",
   "/pyproject.toml",
